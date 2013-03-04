@@ -168,7 +168,7 @@ rm -rf $RPM_BUILD_ROOT
 %dir %{_docdir}/%{name}-%{version}/html
 
 %changelog
-* Mar  4 2013 Adam Huffman <a.huffman@imperial.ac.uk> - 4.1-3
+* Mon Mar 4 2013 Adam Huffman <a.huffman@imperial.ac.uk> - 4.1-3
 - Use local prefix
 
 * Mon Jan 23 2012 Mattias Ellert <mattias.ellert@fysast.uu.se> - 4.1-2
