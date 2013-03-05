@@ -5,6 +5,7 @@ Release: 4.sl5
 License: ASL 2.0
 Vendor: EMI
 Group: System Environment/Libraries
+Prefix: /opt/ichep/emi2/glexec/0.9.6
 Packager: ETICS
 BuildRequires: doxygen
 BuildRequires: pkgconfig
